@@ -1,0 +1,4 @@
+/spark-warehouse
+/target
+.ensime_cache
+/src/main/*/
